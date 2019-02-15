@@ -20,3 +20,9 @@ The following solution provides implementation for 3 Base algorithms, which sort
 _NB❗️you can download the Shakespeare's works from the hyperlink attached to the word **dataset**_
 
 _⚠️ Be aware that it will take some time to load the full dataset, therefore coffee ☕️ or tea 🍵 break is advisable_
+
+___
+> #### Assignment made by:   
+`David Alves 👨🏻‍💻 ` :octocat: [Github](https://github.com/davi7725) <br />
+`Elitsa Marinovska 👩🏻‍💻 ` :octocat: [Github](https://github.com/elit0451) <br />
+> attending Algorithms and Data Structures course of Software Development bachelor's degree
