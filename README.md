@@ -1,4 +1,4 @@
-# Base Algorithms for sorting 𝒮ℌ𝒜𝒦ℰ𝒮𝒫ℰ𝒜ℛℰ  's work 
+# Base Algorithms for sorting 𝒮ℋ𝒜𝒦ℰ𝒮𝒫ℰ𝒜ℛℰ  's work 
 
 The following solution provides implementation for 3 Base algorithms, which sort Shakespeare's work from a text file.
 
