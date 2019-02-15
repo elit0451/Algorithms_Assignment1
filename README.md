@@ -34,4 +34,4 @@ ___
 > #### Assignment made by:   
 `David Alves 👨🏻‍💻 ` :octocat: [Github](https://github.com/davi7725) <br />
 `Elitsa Marinovska 👩🏻‍💻 ` :octocat: [Github](https://github.com/elit0451) <br />
-> attending Algorithms and Data Structures course of Software Development bachelor's degree
+> Attending "Algorithms and Data Structures" course of Software Development bachelor's degree
